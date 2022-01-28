@@ -1,0 +1,13 @@
+body {
+    background-color: grey;
+}
+.title,
+p {
+    text-align: center;
+}
+
+.curry-gif {
+    position: relative;
+    left: 720px;
+}
+
