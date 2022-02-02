@@ -1,6 +1,11 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
 .main-page,
 .curry-page {
-    background-color: grey;
+    background-color: rgb(29, 28, 28);
 }
 
 .title,
